@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
+<h1 align="center">Lalit Kumar</h1>
 <h3 align="center">Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitpama&label=Profile%20views&color=0e75b6&style=flat" alt="lalitpama" /> </p>
